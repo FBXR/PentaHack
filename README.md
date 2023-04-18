@@ -1,2 +1,4 @@
 # PentaHack
-lightweight python project and the first one on github
+The first project posted on GitHub!
+This is a code that simulates loading as a percentage.
+Random and time modules are used to simulate uneven loading.
